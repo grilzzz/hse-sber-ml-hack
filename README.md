@@ -1,4 +1,5 @@
-код с хакатона hse sber ml hack
+Код с хакатона hse sber ml hack
 
-в файле `statictic.ipynb` небольшой анализ данных + визуализация данных 
-в файле `main.ipynb` обучение мл моделей (xgboost + catboost + LinearRegression в итоговом решении)
+В файле `statictic.ipynb` небольшой анализ данных + визуализация данных. 
+
+В файле `main.ipynb` обучение мл моделей (xgboost + catboost + LinearRegression в итоговом решении)
